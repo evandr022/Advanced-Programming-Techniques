@@ -1,0 +1,55 @@
+public class Aluno {
+    String nome;
+    int matricula;
+    int anoNascimento;
+
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ */
+    public Aluno(){ 
+
+    }
+
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ * @param nome  the nome. 
+ * @param matricula  the matricula. 
+ * @param anoNascimento  the ano nascimento. 
+ */
+    public Aluno(String nome, int matricula, int anoNascimento){ 
+
+        this.nome = nome;
+        this.matricula = matricula;
+        this.anoNascimento = anoNascimento;
+    }
+
+
+/** 
+ *
+ * Gets the idade
+ *
+ * @return the idade
+ */
+    public int getIdade(){ 
+
+        return 2023 - this.anoNascimento;
+    }
+
+
+/** 
+ *
+ * Gets the descricao
+ *
+ * @return the descricao
+ */
+    public String getDescricao(){ 
+
+        return this.nome + " (mat=" + this.matricula + ", idade=" + this.getIdade() + ")";
+    }
+}

@@ -1,0 +1,44 @@
+public class Professor {
+    String titulacao;
+    String nome;
+    int matricula;
+
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ */
+    public Professor() { 
+
+    }
+
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ * @param titulacao  the titulacao. 
+ * @param nome  the nome. 
+ * @param matricula  the matricula. 
+ */
+    public Professor(String titulacao, String nome, int matricula) { 
+
+        this.titulacao = titulacao;
+        this.nome = nome;
+        this.matricula = matricula;
+    }
+
+
+/** 
+ *
+ * Gets the descricao
+ *
+ * @return the descricao
+ */
+    public String getDescricao(){ 
+
+        return "Prof. "+ this.titulacao + " " +this.nome+" - mat "+this.matricula;
+    }
+    
+}

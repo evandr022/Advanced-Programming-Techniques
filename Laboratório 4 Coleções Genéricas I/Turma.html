@@ -1,0 +1,102 @@
+import java.util.ArrayList;
+
+
+ /**
+ * The class Turma
+ */ 
+public class Turma {
+    String disciplina;
+    int ano;
+    int semestre;
+    Professor professor;
+    ArrayList<Aluno> alunos = new ArrayList<>();
+
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ * @param disciplina  the disciplina. 
+ * @param ano  the ano. 
+ * @param semestre  the semestre. 
+ * @param professor  the professor. 
+ */
+    public Turma(String disciplina, int ano, int semestre, Professor professor) { 
+
+        this.disciplina = disciplina;
+        this.ano = ano;
+        this.semestre = semestre;
+        this.professor = professor;
+    }
+
+
+/** 
+ *
+ * Add aluno
+ *
+ * @param aluno  the aluno. 
+ */
+    public void addAluno(Aluno aluno){ 
+
+        if(!alunos.contains(aluno)){
+            alunos.add(aluno);
+        }
+    }
+
+
+/** 
+ *
+ * Gets the aluno
+ *
+ * @param matricula  the matricula. 
+ * @return the aluno
+ */
+    public Aluno getAluno(int matricula){ 
+
+        for(Aluno aluno : alunos){
+            if(aluno.matricula == matricula){
+                return aluno;
+            }
+        }
+        return null;
+    }
+
+
+/** 
+ *
+ * Gets the media idade
+ *
+ * @return the media idade
+ */
+    public double getMediaIdade(){ 
+
+        double soma = 0;
+        for(Aluno aluno : alunos){
+            soma += aluno.getIdade();
+        }
+        return soma / alunos.size();
+    }
+
+
+/** 
+ *
+ * Gets the descricao
+ *
+ * @return the descricao
+ */
+    public String getDescricao(){ 
+
+        int cont = 1;
+        String descricao = "Turma " + disciplina + " - " + ano + "/" + semestre + " (" + professor.getDescricao() + "):\n";
+        ArrayList<Integer> matriculasProcessadas = new ArrayList<>();
+
+        for(Aluno aluno : alunos){
+            if (!matriculasProcessadas.contains(aluno.matricula)) {
+                descricao += "  - Aluno " + cont + ": " + aluno.getDescricao() + "\n";
+                matriculasProcessadas.add(aluno.matricula);
+                cont++;
+            }
+        }
+        return descricao;
+    }
+}

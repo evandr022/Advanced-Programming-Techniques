@@ -1,0 +1,33 @@
+public class TurmaMain {
+
+    /** 
+     *
+     * Main
+     *
+     * @param args  the args. 
+     */
+        public static void main(String[] args) { 
+    
+            // Instancia um objeto da Classe Professor
+            Professor professor = new Professor("Dr.", "Albert Einstein", 1001);
+    
+            // Instancia um objeto da Classe Turma
+            Turma turma = new Turma("POO", 2021, 1, professor);
+    
+            // Instancia objetos da Classe Aluno
+            Aluno aluno1 = new Aluno("JoÃ£o", 123, 2000);
+            Aluno aluno2 = new Aluno("Maria", 456, 2001);
+            Aluno aluno3 = new Aluno("JosÃ©", 789, 2002);
+            Aluno aluno4 = new Aluno("Ana", 101, 2003);
+    
+            // Adiciona os alunos na turma
+            turma.addAluno(aluno1);
+            turma.addAluno(aluno2);
+            turma.addAluno(aluno3);
+            turma.addAluno(aluno4);
+    
+            // Imprime a descriÃ§Ã£o da turma
+            System.out.println(turma.getDescricao());
+        }
+    }
+    
