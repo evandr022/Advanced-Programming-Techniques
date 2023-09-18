@@ -14,7 +14,7 @@ Paradigms for building programs. Structured programming. Jackson's method. Objec
 ## Objective
 Understand the main methodologies for program design and development. Exercise the use of these methodologies, according to the application domain and constraints.
 
-## laboratory task
+## Laboratory Task
 
 Lab 01 - Introduction to Java [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%201%20Introdu%C3%A7%C3%A3o%20ao%20JavaFerramenta%20externa).</p>
 Lab 02 - Remembering Programming [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%202%20Relembrando%20Programa%C3%A7%C3%A3oFerramenta%20externa).</p>
