@@ -1,11 +1,15 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 
 public class Ensalamento {
-    ArrayList<Sala> salas = new ArrayList<>();
-    ArrayList<Turma> turmas = new ArrayList<>();
-    ArrayList<TurmaEmSala> ensalamento = new ArrayList<>();
+    ArrayList<Sala> salas;
+    ArrayList<Turma> turmas;
+    ArrayList<TurmaEmSala> ensalamento; 
 
     public Ensalamento(){
+        salas = new ArrayList<>();
+        turmas = new ArrayList<>();
+        ensalamento = new ArrayList<>();
     }
 
     public void addSala(Sala sala){
@@ -48,29 +52,23 @@ public class Ensalamento {
     }
 
     public boolean alocar(Turma turma, Sala sala){
-        if(turma.acessivel && !sala.acessivel){
-            return false;
-        }
-
         ArrayList<Turma> turmasOrdenadas = new ArrayList<>(turmas);
-        turmasOrdenadas.add(turma);
-        turmasOrdenadas.sort((t1, t2) -> Integer.compare(t2.numAlunos, t1.numAlunos));
-       
+
         for(Turma turmaOrdenada : turmasOrdenadas){
-            if(turmaOrdenada.numAlunos <= sala.capacidade && salaDisponivel(sala, turma.horarios)){
+             if(((turma.acessivel == sala.acessivel) || (sala.acessivel)) && (turmaOrdenada.numAlunos <= sala.capacidade) && (salaDisponivel(sala, turma.horarios))){
                 ensalamento.add(new TurmaEmSala(turma, sala));
                 return true;
             }
         }        
         return false;
     }
-
+    
     public void alocarTodas(){
         ArrayList<Turma> turmasOrdenadas = new ArrayList<>(turmas);
         ArrayList<Sala> salaOrdenadas = new ArrayList<>(salas);
         
-        turmasOrdenadas.sort((t1, t2) -> Integer.compare(t2.numAlunos, t1.numAlunos));
-        salaOrdenadas.sort((s1, s2) -> Integer.compare(s1.capacidade, s2.capacidade));
+        turmasOrdenadas.sort(Comparator.comparingInt(turma -> -turma.numAlunos)); 
+        salaOrdenadas.sort(Comparator.comparingInt(sala -> sala.capacidade));
 
         for(Turma turma : turmasOrdenadas){
             for(Sala sala : salaOrdenadas){
