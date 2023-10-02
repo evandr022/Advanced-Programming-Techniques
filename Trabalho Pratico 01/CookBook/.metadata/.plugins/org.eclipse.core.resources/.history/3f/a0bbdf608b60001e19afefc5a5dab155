@@ -1,0 +1,23 @@
+package view;
+
+import java.awt.BorderLayout;
+import javax.swing.*;
+import java.awt.*;
+
+public interface mainView extends JFrame {
+	
+	private JPanel contentPane;
+	
+	/**
+	 * Create the frame
+	 */
+	public mainView() {
+		setDefauldCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 450, 300);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		contentPane.setLayout(new BorderLayout(0, 0));
+		setContentPane(contentPane);
+	}
+	
+}

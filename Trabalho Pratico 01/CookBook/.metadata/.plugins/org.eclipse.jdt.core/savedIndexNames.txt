@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\evand\OneDrive\Documentos\Evandro\UFAM\2023 1º Semestre\Projetos de Programas\Trabalho Pratico 01\CookBook\.metadata\.plugins\org.eclipse.jdt.core
+99133071.index
+1228921224.index
+1865797976.index
+4115691278.index
