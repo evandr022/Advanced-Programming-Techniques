@@ -1,0 +1,84 @@
+package view;
+
+import javax.swing.JPanel;
+import javax.swing.JLabel;
+import java.awt.Font;
+import javax.swing.JComboBox;
+import javax.swing.JTextArea;
+import javax.swing.JButton;
+import javax.swing.JScrollPane;
+import java.awt.Component;
+import javax.swing.ScrollPaneConstants;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import javax.swing.JTable;
+
+public class RecipeManager extends JPanel {
+
+	private static final long serialVersionUID = 1L;
+	private JTable table;
+
+	/**
+	 * Create the panel.
+	 */
+	public RecipeManager() {
+		setLayout(null);
+		
+		JLabel imagemLabel = new JLabel();
+		imagemLabel.setBounds(352, 5, 0, 0);
+		add(imagemLabel);
+		
+		JComboBox cb_category = new JComboBox();
+		cb_category.setBounds(115, 30, 147, 22);
+		add(cb_category);
+		
+		JLabel lblNewLabel = new JLabel("Categoria:");
+		lblNewLabel.setFont(new Font("Times New Roman", Font.PLAIN, 20));
+		lblNewLabel.setBounds(22, 22, 83, 35);
+		add(lblNewLabel);
+		
+		JLabel lblIngredientes = new JLabel("Ingredientes:");
+		lblIngredientes.setFont(new Font("Times New Roman", Font.PLAIN, 20));
+		lblIngredientes.setBounds(410, 91, 105, 35);
+		add(lblIngredientes);
+		
+		JScrollPane txt_ingredients = new JScrollPane((Component) null);
+		txt_ingredients.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		txt_ingredients.setBounds(410, 130, 254, 133);
+		add(txt_ingredients);
+		
+		JLabel imagemLabel_1 = new JLabel();
+		imagemLabel_1.setBounds(216, 110, 176, 167);
+		add(imagemLabel_1);
+		
+		JLabel lblModoDePreparo = new JLabel("Modo de preparo:");
+		lblModoDePreparo.setFont(new Font("Times New Roman", Font.PLAIN, 20));
+		lblModoDePreparo.setBounds(20, 263, 157, 35);
+		add(lblModoDePreparo);
+		
+		JScrollPane txt_recipe = new JScrollPane((Component) null);
+		txt_recipe.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		txt_recipe.setBounds(20, 297, 644, 133);
+		add(txt_recipe);
+		
+		JButton btnNewButton = new JButton("DELETAR");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton.setBounds(575, 461, 89, 23);
+		add(btnNewButton);
+		
+		JButton btnNewButton_1 = new JButton("ATUALIZAR");
+		btnNewButton_1.setBounds(465, 461, 89, 23);
+		add(btnNewButton_1);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(22, 63, 176, 200);
+		
+		table = new JTable();
+		scrollPane.setViewportView(table);
+		add(scrollPane);
+
+	}
+}

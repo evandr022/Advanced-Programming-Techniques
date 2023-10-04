@@ -1,0 +1,74 @@
+package model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class DBConnection {
+    private Connection conn;
+
+    public void initMySqlJdbc() {
+        try {
+            Class.forName("com.mysql.cj.jdbc.Driver");
+            String connectionURL = "jdbc:mysql://localhost:3306/recipebook"; // Nome do seu banco de dados
+            String connectionUser = "root";
+            String connectionPassword = "";
+            conn = DriverManager.getConnection(connectionURL, connectionUser, connectionPassword);
+        } catch (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void closeConnection() {
+        try {
+            if (conn != null) {
+                conn.close();
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void execute(String query) {
+        initMySqlJdbc();
+        Statement stmt = null;
+
+        try {
+            stmt = conn.createStatement();
+            stmt.execute(query);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if (stmt != null) {
+                try {
+                    stmt.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+            closeConnection();
+        }
+    }
+
+    public void executeInsertUpdate(String query) {
+        initMySqlJdbc();
+        Statement stmt = null;
+
+        try {
+            stmt = conn.createStatement();
+            stmt.executeUpdate(query);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if (stmt != null) {
+                try {
+                    stmt.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+            closeConnection();
+        }
+    }
+}

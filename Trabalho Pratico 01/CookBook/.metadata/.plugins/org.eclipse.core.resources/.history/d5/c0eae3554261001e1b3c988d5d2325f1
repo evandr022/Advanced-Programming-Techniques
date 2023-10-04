@@ -1,0 +1,26 @@
+package model;
+
+public class DBCreation {
+    DBConnection db = new DBConnection();
+
+    public void createDatabase() {
+        // Cria o banco de dados se ele não existir
+        String createDatabaseQuery = "CREATE DATABASE IF NOT EXISTS recipebook";
+        db.execute(createDatabaseQuery);
+
+        // Usa o banco de dados
+        String useDatabaseQuery = "USE recipebook";
+        db.execute(useDatabaseQuery);
+
+        // Cria a tabela recipeData
+        String createTableQuery = "CREATE TABLE IF NOT EXISTS recipeData ("
+                + "ID INT NOT NULL AUTO_INCREMENT,"
+                + "title VARCHAR(500) NOT NULL,"
+                + "category VARCHAR(50) NOT NULL,"
+                + "ingredients TEXT NOT NULL,"
+                + "recipe TEXT NOT NULL,"
+                + "PRIMARY KEY (ID)"
+                + ") ENGINE=INNODB";
+        db.execute(createTableQuery);
+    }
+}

@@ -10,5 +10,8 @@
     <fullyQualifiedTypeName name="view.mainView"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="model.DBCreation"/>
+    <fullyQualifiedTypeName name="model.recipe"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream.IntMapMultiConsumer"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="model.DBConnection"/>
 </qualifiedTypeNameHistroy>

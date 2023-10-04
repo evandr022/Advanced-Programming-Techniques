@@ -1,4 +1,4 @@
-!SESSION 2023-10-01 14:50:27.906 -----------------------------------------------
+!SESSION 2023-10-02 22:55:41.122 -----------------------------------------------
 eclipse.buildId=4.28.0.20230608-1200
 java.version=17.0.8
 java.vendor=Eclipse Adoptium
@@ -7,9 +7,9 @@ Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
 
 This is a continuation of log file C:\Users\evand\OneDrive\Documentos\Evandro\UFAM\2023 1º Semestre\Projetos de Programas\Trabalho Pratico 01\CookBook\.metadata\.bak_0.log
-Created Time: 2023-10-01 20:59:41.258
+Created Time: 2023-10-03 07:47:12.432
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.259
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.434
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -59,7 +59,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.268
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.436
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -109,7 +109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.270
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.438
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -159,7 +159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.272
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.440
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -209,7 +209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.274
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.442
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -259,7 +259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.276
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.444
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -309,7 +309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.278
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.445
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -359,7 +359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.281
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.447
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -409,7 +409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.283
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.448
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -459,7 +459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 20:59:41.286
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.450
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -509,7 +509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.007
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.452
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -559,7 +559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.009
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.454
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -609,7 +609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.012
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.456
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -659,7 +659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.014
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.458
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -709,7 +709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.016
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.460
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -759,7 +759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.018
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.461
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -809,7 +809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.019
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.462
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -859,7 +859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.023
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.463
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -909,7 +909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.026
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.464
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -959,7 +959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.028
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.465
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1009,7 +1009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.031
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.467
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1059,7 +1059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.033
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.469
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1109,7 +1109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.056
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.470
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1159,7 +1159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.059
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.471
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1209,7 +1209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.063
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.473
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1259,7 +1259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.064
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.474
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1309,7 +1309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.066
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.476
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1359,7 +1359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.068
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.478
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1409,7 +1409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.069
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.480
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1459,7 +1459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.071
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.482
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1509,7 +1509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.074
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.483
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1559,7 +1559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.076
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.485
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1609,7 +1609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.079
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.486
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1659,7 +1659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.081
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.487
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1709,7 +1709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.083
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.488
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1759,7 +1759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.086
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.489
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1809,7 +1809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.089
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.490
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1859,7 +1859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.091
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.492
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1909,7 +1909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.093
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.494
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -1959,7 +1959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.095
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.496
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2009,7 +2009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.098
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.498
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2059,7 +2059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.101
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.500
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2109,7 +2109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.104
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.502
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2159,7 +2159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.106
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.504
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2209,7 +2209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.109
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.506
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2259,7 +2259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.110
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.508
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2309,7 +2309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.112
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.510
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2359,7 +2359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.116
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.512
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2409,7 +2409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.118
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.514
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2459,7 +2459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.119
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.516
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2509,7 +2509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.121
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.518
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2559,7 +2559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.123
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.520
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2609,7 +2609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.126
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.522
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2659,7 +2659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.128
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.524
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2709,7 +2709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.132
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.526
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2759,7 +2759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.134
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.528
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2809,7 +2809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.137
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.531
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2859,7 +2859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.139
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.533
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2909,7 +2909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.142
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.535
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -2959,7 +2959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.144
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.536
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3009,7 +3009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.146
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.537
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3059,7 +3059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.149
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.538
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3109,7 +3109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.151
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.539
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3159,7 +3159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.153
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.540
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3209,7 +3209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.155
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.542
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3259,7 +3259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.159
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.544
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3309,7 +3309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.160
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.546
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3359,7 +3359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.163
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.548
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3409,7 +3409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.165
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.550
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3459,7 +3459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.167
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.551
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3509,7 +3509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.169
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.553
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3559,7 +3559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.173
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.554
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3609,7 +3609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.176
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.555
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3659,7 +3659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.178
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.557
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3709,7 +3709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.180
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.560
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3759,7 +3759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.183
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.562
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3809,7 +3809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.187
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.564
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3859,7 +3859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.189
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.565
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3909,7 +3909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.191
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.568
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -3959,7 +3959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.194
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.569
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4009,7 +4009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.196
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.570
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4059,7 +4059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.198
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.571
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4109,7 +4109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.200
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.573
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4159,7 +4159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.203
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.574
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4209,7 +4209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.205
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.576
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4259,7 +4259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.208
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.577
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4309,7 +4309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.210
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.578
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4359,7 +4359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.212
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.579
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4409,7 +4409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.214
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.580
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4459,7 +4459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.217
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.581
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4509,7 +4509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.219
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.582
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4559,7 +4559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.222
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.583
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4609,7 +4609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.224
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.584
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4659,7 +4659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.226
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.586
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4709,7 +4709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.228
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.588
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4759,7 +4759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.231
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.589
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4809,7 +4809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.233
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.590
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4859,7 +4859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.236
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.591
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4909,7 +4909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.238
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.592
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -4959,7 +4959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.240
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.593
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5009,7 +5009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.243
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.594
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5059,7 +5059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.245
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.596
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5109,7 +5109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.248
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.597
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5159,7 +5159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.250
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.598
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5209,7 +5209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.252
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.600
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5259,7 +5259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.254
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.602
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5309,7 +5309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.257
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.603
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5359,7 +5359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.259
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.604
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5409,7 +5409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.261
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.605
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5459,7 +5459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.264
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.606
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5509,7 +5509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.267
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.607
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5559,7 +5559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.269
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.608
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5609,7 +5609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.271
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.609
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5659,7 +5659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.273
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.610
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5709,7 +5709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.275
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.611
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5759,7 +5759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.277
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.611
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5809,7 +5809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.279
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.613
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5859,7 +5859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.281
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.615
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5909,7 +5909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.284
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.616
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -5959,7 +5959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.286
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.617
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6009,7 +6009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.288
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.618
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6059,7 +6059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.290
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.619
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6109,7 +6109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.292
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.620
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6159,7 +6159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.295
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.621
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6209,7 +6209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.297
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.622
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6259,7 +6259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.299
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.623
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6309,7 +6309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.301
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.624
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6359,7 +6359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.303
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.625
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6409,7 +6409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.305
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.627
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6459,7 +6459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.307
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.629
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6509,7 +6509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.309
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.630
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6559,7 +6559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.311
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.631
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6609,7 +6609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.313
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.632
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6659,7 +6659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.316
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.633
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6709,7 +6709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.317
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.634
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6759,7 +6759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.319
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.636
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6809,7 +6809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.322
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.637
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6859,7 +6859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.324
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.639
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6909,7 +6909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.326
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.641
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -6959,7 +6959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.327
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.643
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7009,7 +7009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.329
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.644
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7059,7 +7059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.330
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.645
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7109,7 +7109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.331
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.646
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7159,7 +7159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.333
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.647
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7209,7 +7209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.335
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.649
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7259,7 +7259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.337
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.650
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7309,7 +7309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.339
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.651
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7359,7 +7359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.341
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.651
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7409,7 +7409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.342
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.653
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7459,7 +7459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.343
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.655
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7509,7 +7509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.345
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.656
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7559,7 +7559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.347
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.658
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7609,7 +7609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.349
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.658
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7659,7 +7659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.351
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.661
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7709,7 +7709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.353
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.661
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7759,7 +7759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.354
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.663
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7809,7 +7809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.355
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.664
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7859,7 +7859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.357
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.667
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7909,7 +7909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.358
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.669
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -7959,7 +7959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.359
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.670
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8009,7 +8009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.362
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.672
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8059,7 +8059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.365
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.674
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8109,7 +8109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.367
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.675
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8159,7 +8159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.369
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.677
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8209,7 +8209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.370
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.680
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8259,7 +8259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.371
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.682
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8309,7 +8309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.373
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.684
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8359,7 +8359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.375
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.685
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8409,7 +8409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.377
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.687
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8459,7 +8459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.379
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.689
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8509,7 +8509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.381
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.691
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8559,7 +8559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.383
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.693
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8609,7 +8609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.384
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.695
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8659,7 +8659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.386
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.697
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8709,7 +8709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.388
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.698
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8759,7 +8759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.390
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.700
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8809,7 +8809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.392
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.702
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8859,7 +8859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.394
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.703
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8909,7 +8909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.396
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.704
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -8959,7 +8959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.397
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.705
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9009,7 +9009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.399
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.707
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9059,7 +9059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.401
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.709
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9109,7 +9109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.403
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.712
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9159,7 +9159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.406
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.714
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9209,7 +9209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.407
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.716
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9259,7 +9259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.409
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.717
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9309,7 +9309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.411
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.719
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9359,7 +9359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.412
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.721
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9409,7 +9409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.413
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.723
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9459,7 +9459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.414
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.725
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9509,7 +9509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.417
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.726
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9559,7 +9559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.419
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.728
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9609,7 +9609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.421
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.730
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9659,7 +9659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.424
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.731
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9709,7 +9709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.425
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.732
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9759,7 +9759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.426
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.733
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9809,7 +9809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.428
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.735
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9859,7 +9859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.431
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.736
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9909,7 +9909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.433
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.737
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -9959,7 +9959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.434
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.738
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10009,7 +10009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.436
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.740
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10059,7 +10059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.437
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.741
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10109,7 +10109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.438
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.742
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10159,7 +10159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.439
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.743
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10209,7 +10209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.442
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.744
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10259,7 +10259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.444
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.746
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10309,7 +10309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.446
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.748
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10359,7 +10359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.449
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.750
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10409,7 +10409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.451
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.751
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10459,7 +10459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.452
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.752
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10509,7 +10509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.453
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.753
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10559,7 +10559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.454
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.754
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10609,7 +10609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.457
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.755
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10659,7 +10659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.459
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.756
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10709,7 +10709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.462
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.758
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10759,7 +10759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.463
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.761
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10809,7 +10809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.464
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.763
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10859,7 +10859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.466
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.764
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10909,7 +10909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.468
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.765
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -10959,7 +10959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.470
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.766
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11009,7 +11009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.472
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.767
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11059,7 +11059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.475
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.768
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11109,7 +11109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.477
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.769
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11159,7 +11159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.478
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.770
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11209,7 +11209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.479
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.771
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11259,7 +11259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.481
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.772
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11309,7 +11309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.483
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.773
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11359,7 +11359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.485
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.774
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11409,7 +11409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.486
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.775
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11459,7 +11459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.488
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.776
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11509,7 +11509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.489
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.778
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11559,7 +11559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.490
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.780
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11609,7 +11609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.491
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.783
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11659,7 +11659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.492
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.785
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11709,7 +11709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.493
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.787
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11759,7 +11759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.495
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.788
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11809,7 +11809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.497
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.790
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11859,7 +11859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.499
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.792
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11909,7 +11909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.502
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.794
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -11959,7 +11959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.504
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.797
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12009,7 +12009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.506
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.800
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12059,7 +12059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.508
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.802
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12109,7 +12109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.511
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.804
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12159,7 +12159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.513
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.805
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12209,7 +12209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.514
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.807
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12259,7 +12259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.517
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.809
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12309,7 +12309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.519
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.810
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12359,7 +12359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.521
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.812
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12409,7 +12409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.523
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.814
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12459,7 +12459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.526
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.816
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12509,7 +12509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.528
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.817
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12559,7 +12559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.531
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.819
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12609,7 +12609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.533
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.821
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12659,7 +12659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.535
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.823
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12709,7 +12709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.537
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.824
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12759,7 +12759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.540
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.826
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12809,7 +12809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.542
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.828
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12859,7 +12859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.544
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.830
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12909,7 +12909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.545
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.832
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -12959,7 +12959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.546
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.833
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13009,7 +13009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.547
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.834
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13059,7 +13059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.550
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.835
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13109,7 +13109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.552
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.835
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13159,7 +13159,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.553
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.837
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13209,7 +13209,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.554
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.839
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13259,7 +13259,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.556
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.841
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13309,7 +13309,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.558
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.843
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13359,7 +13359,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.559
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.844
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13409,7 +13409,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.561
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.845
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13459,7 +13459,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.564
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.847
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13509,7 +13509,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.567
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.848
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13559,7 +13559,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.568
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.850
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13609,7 +13609,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.570
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.851
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13659,7 +13659,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.571
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.852
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13709,7 +13709,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.572
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.854
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13759,7 +13759,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.575
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.856
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13809,7 +13809,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.577
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.858
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13859,7 +13859,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.579
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.860
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13909,7 +13909,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.580
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.861
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -13959,7 +13959,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.582
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.863
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -14009,7 +14009,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.583
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.864
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -14059,7 +14059,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.584
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.866
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed
@@ -14109,7 +14109,7 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
-!ENTRY org.eclipse.ui.ide 4 4 2023-10-01 21:15:11.585
+!ENTRY org.eclipse.ui.ide 4 4 2023-10-03 07:47:12.868
 !MESSAGE Not properly disposed SWT resource
 !STACK 0
 java.lang.Error: SWT Resource was not properly disposed

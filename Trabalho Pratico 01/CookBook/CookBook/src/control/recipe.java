@@ -1,43 +1,26 @@
 package control;
 
-import model.DBConnection;
+import javax.swing.*;
 
 public class recipe {
+	//Data members
 	private String title;
 	private String ingredients;
 	private String category;
 	private String recipe;
-	private String imagem;
-	DBConnection db = new DBConnection();
+
+	//private byte[] imagem;
 	
-	public boolean saveData() {
-		String query = "INSERT INTO 'recipebook'.''recipedata' (\r\n" + 
-					   "'ID' , \r\n" +
-					   "'title' ,\r\n" +
-					   "'category' , \r\n" +
-					   "'ingredients' , \r\n" +
-					   "'recipe' ,\r\n" +
-					   "'imagem' ,\r\n" + ")\r\n" +
-					   "'VALUES' , (\r\n" + "NULL \r\n " +
-					   this.title + "', '" +
-					   this.category + "', '" +
-					   this.ingredients + "', '" +
-					   this.recipe + "', '" +
-					   this.imagem + "', '" +
-					   "\r\n " + ");";
-		
-		db.executeInsertUpdate(query);
-		
-		return true;
-	}
+	// Logical Function code
+	private model.recipe rcp = new model.recipe();
 	
-	public recipe(String title, String ingredients, String category, String recipe, String imagem) {
+	public recipe(String title, String ingredients, String category, String recipe/*, byte[] imagem*/) {
 		super();
 		this.title = title;
 		this.ingredients = ingredients;
 		this.category = category;
 		this.recipe = recipe;
-		this.imagem = imagem;
+		//this.imagem = imagem;
 	}
 
 	public recipe() {
@@ -76,13 +59,51 @@ public class recipe {
 		this.recipe = recipe;
 	}
 	
-	public String getImagem() {
-		return imagem;
-	}
-
-	public void setImagem(String imagem) {
-		this.imagem = imagem;
+	/*public byte[] getImagem() {
+    	return imagem;
+    }
+    
+    public void setImagem(byte[] imagem) {
+        this.imagem = imagem;
+    }*/	
+	
+	public boolean saveData() {
+		rcp.setCategory(this.category);
+		rcp.setIngredients(this.ingredients);
+		rcp.setRecipe(this.recipe);
+		rcp.setTitle(this.title);
+		//rcp.setImagem(this.imagem);
+		
+		return rcp.saveData();
 	}
 	
+	public void populateTable1(JTable table, String category) {
+		rcp.populateTable(table, category);
+	}
 
+	public recipe getRecipeData() {
+		rcp.setTitle(this.title);
+		rcp.getRecipeData();
+		if(rcp!=null) {
+			this.setIngredients(rcp.getIngredients());
+			this.setRecipe(rcp.getRecipe());
+			
+			return this;
+		}
+		return null;
+		
+	}
+
+	public void DeleteRecipe() {
+		rcp.setTitle(this.title);
+		rcp.DeleteRecipe();
+	}
+
+	public void UptadeRecipe() {
+		rcp.setTitle(this.title);
+		rcp.setIngredients(this.ingredients);
+		rcp.setRecipe(this.recipe);
+		rcp.UptadeRecipe();
+		
+	}
 }

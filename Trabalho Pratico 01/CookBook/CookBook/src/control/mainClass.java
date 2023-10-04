@@ -1,6 +1,6 @@
 package control;
 
-import model.DBCreation;
+import model.DBCreation; 
 import view.mainView;
 
 public class mainClass {
