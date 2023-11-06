@@ -21,12 +21,12 @@ Lab 02 - Remembering Programming [Acess here](https://github.com/evandr022/Advan
 Lab 03 - Introduction to Object Orientation [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%203%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Orienta%C3%A7%C3%A3o%20a%20Objetos).</p>
 Lab 04 - Generic Collections I [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%204%20Cole%C3%A7%C3%B5es%20Gen%C3%A9ricas%20I).</p>
 Lab 05 - Generic Collections II [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%205%20Cole%C3%A7%C3%B5es%20Gen%C3%A9ricas%20II).</p>
-Lab 06 - Packages, Inheritance [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
-Lab 07 - Interfaces, Encapsulation [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
-Lab 08 - Exceptions [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
-Lab 09 - Inverted list [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
+Lab 06 - Packages, Inheritance [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%206%20Pacotes%2C%20Heran%C3%A7a).</p>
+Lab 07 - Interfaces, Encapsulation [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%207%20Interfaces%2C%20Encapsulamento).</p>
+Lab 08 - Exceptions [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%208%20Exce%C3%A7%C3%B5es).</p>
+Lab 09 - Inverted list [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%209%20Lista%20Invertida).</p>
 Lab 10 - Snake game [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
 
 ## Project
 
-Project 01 - Recipe Management System [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
+Project 01 - Recipe Management System [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Trabalho%20Pratico%2001/CookBook/CookBook/src).</p>
