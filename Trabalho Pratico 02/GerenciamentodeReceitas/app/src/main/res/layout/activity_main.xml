@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/capaa">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="Imagem de comida"
+        android:scaleType="centerCrop"
+        android:src="@drawable/capaa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonCadastro"
+        android:layout_width="188dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="256dp"
+        android:background="#FE7300"
+        android:onClick="clickCadastro"
+        android:text="@string/cadastro"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+    <Button
+        android:id="@+id/buttonConsultar"
+        android:layout_width="177dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="80dp"
+        android:background="#FE7300"
+        android:onClick="clickConsulta"
+        android:text="@string/consulta2"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonCadastro" />
+
+    <Button
+        android:id="@+id/buttonRelatorio"
+        android:layout_width="170dp"
+        android:layout_height="103dp"
+        android:layout_marginTop="80dp"
+        android:background="#FE7300"
+        android:onClick="clickRelatorio"
+        android:text="@string/relatorio"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonConsultar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

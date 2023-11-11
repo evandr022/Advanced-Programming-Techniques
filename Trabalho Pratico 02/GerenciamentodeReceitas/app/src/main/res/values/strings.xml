@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gerenciamento de Receitas</string>
+    <string name="titulo" />
+    <string name="titulog">Gerenciamento de Receitas</string>
+    <string name="cadastro">cadastrar receitas</string>
+    <string name="consulta">consultar receitas\n</string>
+    <string name="consulta2">consultar receitas</string>
+    <string name="relatorio">relatório</string>
+</resources>
