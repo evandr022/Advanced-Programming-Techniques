@@ -13,7 +13,7 @@ public class Aluno {
     }
 
     public int getIdade(){
-        return 2023 - this.anoNascimento;
+        return 2024 - this.anoNascimento;
     }
 
     public String getDescricao(){
